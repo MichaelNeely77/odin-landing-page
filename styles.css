@@ -1,5 +1,6 @@
 body {
-    background-color: #a1a1a1;
+    display: flex;
+    flex:1;
 }
 
 header {
