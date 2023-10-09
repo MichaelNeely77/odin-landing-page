@@ -6,6 +6,16 @@ header {
     display:flex;
 }
 
+.logo span {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.hero,
+footer {
+    background-color: #1f2937;
+}
+
 .menu {
     display: flex;
     justify-content: space-between;
