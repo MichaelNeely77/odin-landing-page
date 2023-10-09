@@ -6,3 +6,8 @@ header {
     display:flex;
 }
 
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
