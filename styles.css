@@ -9,7 +9,8 @@ header {
 
 .logo {
     width: 60px;
-    height: auto;
+    height: 60px;
+    padding: 10px;
 }
 
 .logo img {
