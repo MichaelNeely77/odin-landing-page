@@ -12,6 +12,7 @@ header {
     color: #f9faf8;
 }
 
+header,
 .hero,
 footer {
     background-color: #1f2937;
@@ -20,5 +21,11 @@ footer {
 .menu {
     display: flex;
     justify-content: space-between;
+}
+
+.left-hero h1 {
+    font-size: 48px;
+    font-weight: 900;
+    #f9faf8;
 }
 
