@@ -68,7 +68,7 @@ footer {
 
 main {
     display:flex;
-    padding: 24px;
+    padding: 0px;
     justify-content:center;
 }
 
