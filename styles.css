@@ -4,7 +4,17 @@ body {
     flex-direction: column;
 }
 
+.header-wrapper,
+.main-wrapper {
+    max-width: 1300px;
+}
 
+.header-wrapper {
+    display:flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 30px 0;
+}
 
 header {
     display:flex;
