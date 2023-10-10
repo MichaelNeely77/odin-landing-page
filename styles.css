@@ -1,10 +1,16 @@
 body {
+    display:flex;
+    justify-content: center;
+}
 
+.container {
+    max-width: 1300px;
 }
 
 header {
     display:flex;
     padding: 24px;
+    justify-content:space-between;
 }
 
 .logo {
@@ -23,8 +29,6 @@ footer {
     background-color: #1f2937;
 }
 
-
-
 .menu {
     display: flex;
     justify-content: space-between;
@@ -36,3 +40,4 @@ footer {
     color: #f9faf8;
 }
 
+.menu ul
