@@ -84,8 +84,19 @@ main {
     align-content:center;
 }
 
+.left-hero_text {
+    display: flex;
+    flex-direction: column;
+}
+
 .left-hero {
     flex-direction: column;
+    align-content: center;
+    gap: 30px;
+}
+
+.left-hero h1 {
+    margin-bottom: 20px;
 }
 
 .left-hero p {
