@@ -84,10 +84,15 @@ main {
     align-content:center;
 }
 
+.left-hero {
+    flex-direction: column;
+}
+
 .left-hero a {
     padding: 10px 20px;
-    backgrokund-color: #3882f6;
+    background-color: #3882f6;
     border: #fff;
     color: #fff;
+    border-radius: 10px;
 }
 
