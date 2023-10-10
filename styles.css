@@ -12,7 +12,7 @@ header {
     display:flex;
     padding: 24px;
     justify-content:space-between;
-
+    flex: 1;
 }
 
 .logo {
