@@ -79,5 +79,15 @@ main {
 .left-hero,
 .right-hero {
     flex:1 1 50%;
+    display:flex;
+    justify-content:center;
+    align-content:center;
+}
+
+.left-hero a {
+    padding: 10px 20px;
+    backgrokund-color: #3882f6;
+    border: #fff;
+    color: #fff;
 }
 
