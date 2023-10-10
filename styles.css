@@ -3,7 +3,7 @@ body {
     justify-content: center;
 }
 
-.container {
+.wrapper{
     max-width: 1300px;
 }
 
