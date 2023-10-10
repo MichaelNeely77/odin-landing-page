@@ -21,7 +21,7 @@ header {
     display:flex;
     padding: 24px;
     justify-content:center;
-    flex: 1;
+
 }
 
 .logo {
@@ -67,6 +67,8 @@ footer {
 }
 
 main {
-    displlay:flex;
+    display:flex;
+    padding: 24px;
+    justify-content:center;
 }
 
