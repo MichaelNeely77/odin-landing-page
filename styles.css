@@ -60,7 +60,7 @@ footer {
 
 .menu ul li  a {
     font-size: 18px;
-    color: #f9faf8;
+    color: #e5e7eb;
     text-decoration: none;
 }
 
@@ -86,6 +86,11 @@ main {
 
 .left-hero {
     flex-direction: column;
+}
+
+.left-hero p {
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .left-hero a {
