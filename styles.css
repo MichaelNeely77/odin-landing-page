@@ -63,4 +63,10 @@ footer {
 .menu ul li  a {
     font-size: 18px;
     color: #f9faf8;
+    text-decoration: none;
 }
+
+main {
+    displlay:flex;
+}
+
