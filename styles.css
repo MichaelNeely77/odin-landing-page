@@ -70,7 +70,8 @@ main {
     flex-direction: column;
 }
 
-.hero {
+.hero,
+.cards-section {
     display:flex;
     width: 100%;
     justify-content:center;
@@ -110,5 +111,9 @@ main {
     border: #fff;
     color: #fff;
     border-radius: 10px;
+}
+
+.cards-section {
+    padding: 40px 0;
 }
 
