@@ -125,7 +125,8 @@ main {
 
 .cards {
     display:flex;
-    gap: 40px;
+    gap: 30px;
+    max-width: 1300px;
 }
 
 .card {
@@ -138,5 +139,6 @@ main {
     border-radius: 10px;
     border: 1px solid #a1a1a1;
     padding: 30px;
+    max-width: 300px;
 }
 
