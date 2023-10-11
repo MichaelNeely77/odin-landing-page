@@ -111,9 +111,23 @@ main {
     border: #fff;
     color: #fff;
     border-radius: 10px;
+    text-decoration: none;
 }
 
 .cards-section {
     padding: 40px 0;
+}
+
+.cards {
+    display:flex;
+}
+
+.card {
+    flex:0 0 25%;
+    gap: 20px;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
 }
 
