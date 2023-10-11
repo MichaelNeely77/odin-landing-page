@@ -67,6 +67,7 @@ main {
     display:flex;
     padding: 0px;
     justify-content:center;
+    flex-direction: column;
 }
 
 .hero {
