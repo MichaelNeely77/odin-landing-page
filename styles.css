@@ -10,6 +10,7 @@ body {
     max-width: 1300px;
     display:flex;
     width: 100%;
+    padding: 40px 0;
 }
 
 .cards-wrapper {
@@ -146,7 +147,6 @@ main {
 }
 
 .quote-section {
-    padding: 40px 0;
     display:flex;
     justify-content:center;
     background-color: #e5e7eb;
@@ -157,5 +157,34 @@ blockquote {
     font-size: 36px;
     font-weight: 300;
     font-style:italic;
+}
+
+.cta-section {
+    display:flex;
+    justify-content:center;
+}
+
+.cta-body {
+    background-color: #3882f6;
+    padding: 20px;
+    display:flex;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.cta-text h2,
+.cta-text p {
+    color: #fff;
+}
+
+.cta-text {
+    width: 75%;
+}
+
+.cta-button {
+    width: 25%;
+    display:flex;
+    align-content:center;
+    justify-content:center;
 }
 
