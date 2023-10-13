@@ -184,7 +184,25 @@ blockquote {
 .cta-button {
     width: 25%;
     display:flex;
-    align-content:center;
+    align-items:center;
     justify-content:center;
+
+}
+
+.cta-button a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+
+}
+
+.cta-button a:hover {
+    background-color: #fff;
+}
+
+.cta-button a:hover {
+    color: #3882f6;
 }
 
