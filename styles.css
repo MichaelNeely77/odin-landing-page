@@ -149,12 +149,13 @@ main {
     padding: 40px 0;
     display:flex;
     justify-content:center;
+    background-color: #e5e7eb;
 }
 
 blockquote {
     text-align:center;
     font-size: 36px;
     font-weight: 300;
-
+    font-style:italic;
 }
 
