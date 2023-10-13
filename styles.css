@@ -145,3 +145,16 @@ main {
     padding: 30px;
 }
 
+.quote-section {
+    padding: 40px 0;
+    display:flex;
+    justify-content:center;
+}
+
+blockquote {
+    text-align:center;
+    font-size: 36px;
+    font-weight: 300;
+
+}
+
